@@ -1,0 +1,8 @@
+Plotting Graphs using glassnode api
+
+Plan:
+- glassnode api lesen
+- glassnode information holen 
+- plotten mit matplot
+
+-dataframes
